@@ -1,0 +1,13 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:3rem ;
+}
+img{
+    width: 10rem;
+}
+.citation{
+    color: rgb(107, 96, 96);
+    font-style:italic;
+}
