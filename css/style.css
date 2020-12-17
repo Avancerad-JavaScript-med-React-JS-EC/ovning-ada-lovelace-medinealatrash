@@ -6,6 +6,8 @@ h1{
 }
 img{
     width: 10rem;
+    float: right;; 
+    margin: .9rem 0 .9rem .9rem; 
 }
 .citation{
     color: rgb(107, 96, 96);

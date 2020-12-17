@@ -8,13 +8,16 @@ import About from './about.js';
 
 function NewExersice(){
     return (
-        <section className = 'wrapper'>
+        <div className = 'wrapper'>
            
             <App />
+        
             <Image />
             <About />
+        
+            
            
-        </section>
+        </div>
     )
 }
 
